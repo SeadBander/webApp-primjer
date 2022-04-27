@@ -11,4 +11,7 @@
         <servlet-name>First</servlet-name>
         <url-pattern>/first</url-pattern>
     </servlet-mapping>
+    <welcome-file-list>
+        <welcome-file>welcome.html</welcome-file>
+    </welcome-file-list>
 </web-app>
